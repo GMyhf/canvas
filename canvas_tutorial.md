@@ -2,17 +2,25 @@
 
 2021/3/2 闫宏飞
 
-北大Canvas网址，https://pku.instructure.com/
-
-教师微信群：北大Canvas + Teams技术服务群（328）。加”guo-929“微信好友，邀请入群。
 
 
+**前言**
 
-# 第一部分
+​		如标题所述，本教材关注于北京大学为开课教师和选课学生提供的Canvas学习管理平台（Learning Management System, LMS）。第一部分描述了课程进行中，使用Canvas设置课程网站，使用Teams进行课堂直播。第二部分描述了使用Canvas和Teams，进行期中或者期末考试。
 
-##  介绍
+​		北大Canvas网址，https://pku.instructure.com/
 
-​		Canvas是北京大学为开课教师和选课学生提供的学习管理平台（Learning Management System, LMS）。Canvas已经与北大教务系统对接，开课教师登录进入后，可以看到自己的课程，可以自行添加、删除选课学生和助教。
+​		教师微信群：北大Canvas + Teams技术服务群（328）。加”guo-929“微信好友，邀请入群。
+
+
+
+# 第一部分 授课中使用Canvas和Teams
+
+
+
+##  第1章 引言
+
+​		Canvas已经与北大教务系统对接，开课教师登录进入后，可以看到自己的课程，可以自行添加、删除选课学生和助教。
 
 ​		在电脑上使用，不需要安装，直接通过浏览器访问；在手机上使用，教师安装Canvas Teacher，学生安装Canvas Student。
 
@@ -52,13 +60,15 @@ graph LR
 
 
 
-<img src="https://i.loli.net/2021/02/26/yOkC8u6PK3mDT9Q.png" alt="image-20210226202250481" style="zoom:67%;" />
+<img src="https://i.loli.net/2021/02/26/yOkC8u6PK3mDT9Q.png" alt="image-20210226202250481" style="zoom: 50%;" />
 
 ​															图3. 登录进入Canvas
 
-## 课程设置
 
-​		可参考：如何使用 Canvas 设置课程，https://zh.guides.instructure.com/m/11077/l/1099124-canvas
+
+## 第2章 课程设置
+
+​		可参考：[如何使用 Canvas 设置课程](https://zh.guides.instructure.com/m/11077/l/1099124-canvas)
 
 ### 2.1 打开一门课程
 
@@ -66,37 +76,37 @@ graph LR
 
 <img src="https://i.loli.net/2021/02/26/y9XUzgHL6FGEu3V.png" alt="查看课程首页" style="zoom:50%;" />
 
-​																图4. 打开一门课程
+​																					图4. 打开一门课程
 
 
 
 <img src="https://i.loli.net/2021/02/26/CROKbMhc4QSHToI.png" alt="查看教程"  />
 
-​											图5. 进入单元设置
+​												图5. 进入单元设置
 
 
 
-### 2.2 安排每周或者每次课程（单元设置）
+### 2.2 安排每周或者每次课程（单元）
 
 ​		课程单元可以是按周划分的单元，如“第一周”、“第二周”等，单元帮助您更好的安排和添加课程内容。
 
-<img src="https://i.loli.net/2021/02/26/eMbTVNrfgEpm3Wn.png" alt="image-20210226231135493" style="zoom:67%;" />
+<img src="https://i.loli.net/2021/02/26/eMbTVNrfgEpm3Wn.png" alt="image-20210226231135493" style="zoom: 50%;" />
 
-​				图6. a) 随着课程推进，单元内容呈现								b) 设置课程主页为课程单元
+​									图6. a) 随着课程推进，单元内容呈现								b) 设置课程主页为课程单元
 
 
 
-###  2.3 针对一个具体单元的设置
+###  2.3 设置一个具体单元
 
 ​		单元可以增加、删除、移动。单元中包含的网页、作业，也可以增删改。
 
 <img src="https://i.loli.net/2021/02/27/WPU2lGn3ehZoB7i.png" alt="image-20210227001952482" style="zoom:50%;" />
 
-​															图7. 具体一个课程单元的设置
+​																			图7. 具体一个课程单元的设置
 
 
 
-## 布置及批改作业
+## 第3章 布置及批改作业
 
 ### 3.1 布置作业
 
@@ -112,25 +122,25 @@ graph LR
 
 
 
-<img src="https://i.loli.net/2021/02/27/Ibxf4gK1kTuwJcR.png" alt="image-20210227141700737" style="zoom: 50%;" />
+<img src="https://i.loli.net/2021/02/27/Ibxf4gK1kTuwJcR.png" alt="image-20210227141700737" style="zoom: 33%;" />
 
-​														图8. 布置作业
-
-
-
-<img src="https://i.loli.net/2021/02/27/Xsrg6RveWMUBxyI.png" alt="image-20210227141813309" style="zoom: 50%;" />
-
-​												图9. 点开一次作业
+​															图8. 布置作业
 
 
 
-<img src="https://i.loli.net/2021/02/27/j13lHw7YLChrzWe.png" alt="image-20210227141956621" style="zoom: 50%;" />
+<img src="https://i.loli.net/2021/02/27/Xsrg6RveWMUBxyI.png" alt="image-20210227141813309" style="zoom: 33%;" />
 
-​											图10. 批改一份作业
+​														图9. 点开一次作业
 
 
 
-==使用SpeedGrader经常问到的问题（Frequently Asked Questions, FAQ）==，如下所示。
+<img src="https://i.loli.net/2021/02/27/j13lHw7YLChrzWe.png" alt="image-20210227141956621" style="zoom: 33%;" />
+
+​														图10. 批改一份作业
+
+
+
+​		==使用SpeedGrader经常问到的问题（Frequently Asked Questions, FAQ）==，如下所示。
 
 Q: 作业要求提交多种类型多个文件（比如：作业要求提交文件类型py,ipynb和mp4），但是无法提交多个。如何解决？目前我是想到折中办法是先提交视频，其他py等文件作为附件，提交到评论中。
 
@@ -140,11 +150,11 @@ A: 理论上学生可以多次提交作业每次作业都会保留。
 
 
 
-## 制作微课件
+## 第4章 制作微课件
 
-Studio是中最重要的，也是最有特色的！利用Studio，可以轻松录制微课、在视频里插入小测验、与学生就视频内容进行互动等。关于如何使用Studio，详见：[Studio使用指南](https://pku.instructure.com/courses/5/pages/studioshi-yong-zhi-nan)
+​		Studio是中最重要的，也是最有特色的！利用Studio，可以轻松录制微课、在视频里插入小测验、与学生就视频内容进行互动等。关于如何使用Studio，详见：[Studio使用指南](https://pku.instructure.com/courses/5/pages/studioshi-yong-zhi-nan)
 
-### 4.1 利用Studio的录屏工具制作微课件
+### 4.1 使用Studio的录屏工具
 
 ​		利用Studio的录屏工具制作微课件制作步骤，是利用Canvas自带的 Studio ->记录->屏幕捕捉（Screen Capture）。 这样，本地机器如何操作，都录下来了，同时加声音解说，就形成了微课件。详见：[5分钟利用Studio的录屏工具制作微课件](https://pku.instructuremedia.com/embed/9cf7145a-abd9-4418-a5ff-5dcfed2e2f8f)
 
@@ -154,27 +164,31 @@ Studio是中最重要的，也是最有特色的！利用Studio，可以轻松�
 
  
 
-<img src="https://i.loli.net/2021/02/27/BgaTYeVmARuEy9U.png" alt="image-20210227141355317" style="zoom: 50%;" />
+<img src="https://i.loli.net/2021/02/27/BgaTYeVmARuEy9U.png" alt="image-20210227141355317" style="zoom: 33%;" />
 
-​								图11. 利用Studio的录屏工具制作微课件
-
-![image-20210228211528097](https://i.loli.net/2021/02/28/bUNyMJ9KwHRIurB.png)
-
-​						图12：制作好的微课件
+​															图11. 利用Studio的录屏工具制作微课件
 
 
 
-==使用Studio经常问到的问题==，如下所示。
+<img src="https://i.loli.net/2021/02/28/bUNyMJ9KwHRIurB.png" alt="image-20210228211528097" style="zoom: 33%;" />
+
+​													图12：制作好的微课件
+
+
+
+​		==使用Studio经常问到的问题==，如下所示。
 
 Q: 请问剪辑用什么软件比较好？
 
 Canvas中Studiso的Screen Capture自带视频编辑功能。 用这个自带的剪辑功能就可以，里面工具好多项。
 
-我只用了最简单的cut功能，就是剪掉开始或者结尾部分的杂乱画面，其他不动。
+如果只用了最简单的cut功能，就是剪掉开始或者结尾部分的杂乱画面，其他不动。
 
-![image-20210301002226781](https://i.loli.net/2021/03/01/fDGmWp1T2z5iHhM.png)
 
-​					图13. Studio的Screen Capture视频编辑功能
+
+<img src="https://i.loli.net/2021/03/01/fDGmWp1T2z5iHhM.png" alt="image-20210301002226781" style="zoom:67%;" />
+
+​							图13. Studio的Screen Capture视频编辑功能
 
 
 
@@ -198,19 +212,21 @@ Q: 字幕在屏幕上方，这个位置能改的吗？
 
 
 
-# 第二部分
-
-## 北大Canvas+Teams 在线考试组合方案（教师使用手册）
 
 
+# 第二部分 考试时使用Canvas和Teams
 
-​	学期中教学需要使用Canvas教学管理平台结合Teams会议系统进行课堂直播，期末考试同样用Canvas出卷，Teams进行远程监考实现。
 
-​	接下来，主要介绍利用北大Canvas+Teams实现在线考试组合方案。包括三部分内容：教师出题、学生身份验证暨考试诚信承诺书、学生在线考试和教师监考。
 
-##  5.1 教师出考卷
+## 第5章 在线考试方案
 
-​	教师出考卷，即组卷，利用Canvas中的“评分测验”实现。Canvas 有四种类型的测验，如图14所示。
+​		学期中教学需要使用Canvas教学管理平台结合Teams会议系统进行课堂直播，期中或者期末考试同样用Canvas出卷，Teams进行远程监考实现。
+
+​		本章介绍利用北大Canvas+Teams实现在线考试组合方案。包括三部分内容：教师出题、学生身份验证暨考试诚信承诺书、学生在线考试和教师监考。
+
+###  5.1 出考卷
+
+​		教师出考卷，即组卷，利用Canvas中的“评分测验”实现。Canvas 有四种类型的测验，如图14所示。
 
 
 
@@ -220,13 +236,13 @@ Q: 字幕在屏幕上方，这个位置能改的吗？
 
 
 
-​	­**评分测验**是最常见的测验。­练习测验用于了解用户在不评分的情况下对课程材料的掌握。评分调查为奖励学生完成调查而设，但不按答案的对错来评分。非评分调查为获取评论意见或其他信息而设。
+​	­	**评分测验**是最常见的测验。­练习测验用于了解用户在不评分的情况下对课程材料的掌握。评分调查为奖励学生完成调查而设，但不按答案的对错来评分。非评分调查为获取评论意见或其他信息而设。
 
-​	出题流程包括两步：在题库中出题（准备问题）和利用题库中的问题组卷。
+​		出题流程包括两步：在题库中出题（准备问题）和利用题库中的问题组卷。
 
-###  5.1.1 在题库中出题
+####  5.1.1 在题库中出题
 
-题库出题，在Canvas中称为“ 管理题库”。点击 左侧菜单项 **测验**，点击 +测试 右侧 的 三个点 ，进入 **管理题库**，如图15所示。
+​		题库出题，在Canvas中称为“ 管理题库”。点击 左侧菜单项 **测验**，点击 +测试 右侧 的 三个点 ，进入 **管理题库**，如图15所示。
 
 
 
@@ -268,7 +284,7 @@ Q: 字幕在屏幕上方，这个位置能改的吗？
 
 
 
-### 5.1.2 出考卷
+#### 5.1.2 出考卷
 
 ​	出考卷（组卷），在Canvas中是 “+测验”，即是带有问题的新测验。
 
@@ -288,13 +304,13 @@ Q: 字幕在屏幕上方，这个位置能改的吗？
 
 
 
-![image-20210106231926320](https://i.loli.net/2021/03/01/CUPE762cJFmwget.png)
+<img src="https://i.loli.net/2021/03/01/CUPE762cJFmwget.png" alt="image-20210106231926320" style="zoom:67%;" />
 
 ​																		图22. 为测验加问题
 
 
 
-![image-20210106232206577](https://i.loli.net/2021/03/01/a9cDihp7WrU6IlG.png)
+<img src="https://i.loli.net/2021/03/01/a9cDihp7WrU6IlG.png" alt="image-20210106232206577" style="zoom:67%;" />
 
 
 
@@ -302,7 +318,7 @@ Q: 字幕在屏幕上方，这个位置能改的吗？
 
 
 
-## 5.2 学生身份验证暨考试诚信承诺书
+### 5.2 身份验证暨考试诚信承诺书
 
 ​	 收集学生“身份验证暨考试诚信承诺书”的方法是：­教师在Cavans中**布置一次身份验证暨考试诚信承诺书作业**，要求学生“使用studio提交”完成作业。­学生利用Canvas的Studio录制mp4格式，完成该次作业。如图24所示。
 
@@ -352,11 +368,11 @@ Q: 字幕在屏幕上方，这个位置能改的吗？
 
 
 
-## 5.3 学生在线考试和教师监考
+### 5.3 学生在线考试和教师监考
 
 
 
-### 5.3.1 要求学生全程打开摄像头
+#### 5.3.1 要求学生全程打开摄像头
 
 ​	在线考试，要求学生全程打开摄像头等方式开展[^footnote2]
 
@@ -375,25 +391,23 @@ Q: 字幕在屏幕上方，这个位置能改的吗？
 
 
 
-### 5.3.2 教师监考
+#### 5.3.2 教师监考
 
 ​	考试期间，教师看到的画面如图27所示，即监考。
 
-![image-20210107000235517](https://i.loli.net/2021/03/01/c6gAasrKvVM35BW.png)
+<img src="https://i.loli.net/2021/03/01/c6gAasrKvVM35BW.png" alt="image-20210107000235517" style="zoom: 33%;" />
 
 ​																					图27. 考试期间云监考
 
 
 
-## 附录：
+​		Teams现有（2021年1月5日）问题如下： 		
 
-Teams现有（2021年1月5日）问题： 
+​		1）Teams有大型画廊模式，刚好可以云监考。但是目前没有翻页功能，可以显示49人最多。如果需要云监考更多考生，需要用不同teams账号，同时开多个会议，学生分组相应加入。
 
-1）Teams有大型画廊模式了，刚好可以云监考，但是目前没有翻页功能，可以最多显示49人。如果需要云监考更多考生，需要用不同Teams账号，同时开多个会议，学生分组相应加入。
+­		2）云端录像有问题。只能录9个画面，尽管当时能看到更多的画面。只能云监考时候，截屏。
 
-­2）云端录像只能录9个画面，尽管当时能看到更多的参加考试的同学画面。目前只能云监考时候，截屏。
-
-
+​		3）­“大型画廊模式”，太消耗资源（容易死机），因为画面一多，机器风扇就很响了。­网络也出现多次断连，估计是“大型画廊画廊模式”没有优化。
 
 
 
@@ -407,42 +421,42 @@ Teams现有（2021年1月5日）问题：
 
 
 
-## 附录1. 课堂直播或云监考
+## 附录. 课堂直播或云监考
 
-课堂直播可以使用Teams，或者腾讯会议。上课时候，在教室中开启一个直播会议系统就可以，会议网址可以放在放在课程网站中。
+​		课堂直播可以使用Teams，或者腾讯会议。上课时候，在教室中开启一个直播会议系统就可以，如附录图1所示。会议网址可以放在放在课程网站中或者直接发给学生。
 
-<img src="https://i.loli.net/2021/02/27/4mCEKrwQTsfWdZj.png" alt="image-20210227144421128" style="zoom: 50%;" />
+<img src="https://i.loli.net/2021/02/27/4mCEKrwQTsfWdZj.png" alt="image-20210227144421128" style="zoom: 33%;" />
 
-​										附录图1. 课堂直播 
+​														附录图1. 课堂直播 
 
-使用Teams的步骤：
+​		
+
+​		使用Teams的步骤：1）如附录图2所示，打开Teams，点开左侧导航中的日历；2）如附录图3所示，在相应的日期和开始时间，鼠标左键单击，开始设置一次新会议；3）如附录图4所示，在收件箱中，复制会议链接，发送给参会者；4）如附录图5所示，学生通过Teams参加课堂直播，或者参加在线考试。
 
 
 
-![image-20210301001224219](https://i.loli.net/2021/03/01/9nJPiZcW46hj1dV.png)
+<img src="https://i.loli.net/2021/03/01/9nJPiZcW46hj1dV.png" alt="image-20210301001224219" style="zoom:67%;" />
 
 ​											附录图2. 打开Teams，点开左侧导航中的日历
 
 
 
-![image-20210301001258554](https://i.loli.net/2021/03/01/ijUnfBI7FzShTNo.png)
+<img src="https://i.loli.net/2021/03/01/ijUnfBI7FzShTNo.png" alt="image-20210301001258554" style="zoom:67%;" />
 
 ​											附录图3. 在相应的日期和开始时间，鼠标左键单击，开始设置一次新会议
 
 
 
-![image-20210301001441096](https://i.loli.net/2021/03/01/9uwkL4YlbIhJOPW.png)
+<img src="https://i.loli.net/2021/03/01/9uwkL4YlbIhJOPW.png" alt="image-20210301001441096" style="zoom: 50%;" />
 
 ​											附录图4. 在收件箱中，复制会议链接，发送给参会者
 
 
 
-![image-20210301002812459](https://i.loli.net/2021/03/01/aJI5R6UzvSZuFWC.png)
+<img src="https://i.loli.net/2021/03/01/aJI5R6UzvSZuFWC.png" alt="image-20210301002812459" style="zoom:67%;" />
 
 ​											附录图5. 学生通过Teams参加课堂直播，或者参加在线考试
 
 
 
-​		Teams有大型画廊模式了,刚好可以云监考。但是目前没有翻页功能，可以显示49人最多。如果需要云监考更多考生，需要用不同teams账号，同时开多个会议，学生分组相应加入。
-
-­		另外，1）云端录像有问题。只能录9个画面，尽管当时能看到更多的画面。只能云监考时候，截屏。2）­“大型画廊模式”，太消耗资源（容易死机），因为画面一多，机器风扇就很响了。­网络也出现多次断连，估计是“大型画廊画廊模式”没有优化。
+​		
