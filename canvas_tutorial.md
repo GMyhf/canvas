@@ -387,7 +387,7 @@ Q: 字幕在屏幕上方，这个位置能改的吗？
 ​	**考试前，务必进行云监考环境测试。**才能确保考试期间，侧机位视角的清晰和有效性。
 ​	考试期间，摄像头不能关闭。
 
-![image-20210106235329626](https://i.loli.net/2021/03/01/H3lynre9SUALIcC.png)
+![image-20210106235329626](https://raw.githubusercontent.com/GMyhf/img/main/img/H3lynre9SUALIcC.png)
 
 ​				图26. 学生端侧机位视角
 
