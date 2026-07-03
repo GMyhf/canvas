@@ -1,6 +1,6 @@
 # 北大Canvas 简明教程
 
-Updated 2015 GMT+8 Sep 8, 2023
+Updated 2012 GMT+8 Jul 3, 2026
 
 2021/3/2 闫宏飞
 
@@ -270,7 +270,7 @@ Q: 字幕在屏幕上方，这个位置能改的吗？
 
 
 
-<img src="https://i.loli.net/2021/03/01/wWTErSL65lAUbta.png" alt="image-20210106225619308" style="zoom: 67%;" />
+<img src="https://raw.githubusercontent.com/GMyhf/img/main/img/wWTErSL65lAUbta.png" alt="image-20210106225619308" style="zoom: 67%;" />
 
 ​			(a)															(b)					
 
@@ -397,7 +397,7 @@ Q: 字幕在屏幕上方，这个位置能改的吗？
 
 ​	考试期间，教师看到的画面如图27所示，即监考。
 
-<img src="https://i.loli.net/2021/03/01/c6gAasrKvVM35BW.png" alt="image-20210107000235517" style="zoom: 33%;" />
+<img src="https://raw.githubusercontent.com/GMyhf/img/main/img/c6gAasrKvVM35BW-20260703200757815.png" alt="image-20210107000235517" style="zoom: 33%;" />
 
 ​				图27. 考试期间云监考
 
