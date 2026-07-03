@@ -1,0 +1,9 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+
+# Local screenshots and downloaded course/student files.
+*.png
+course_1843_comment_md/
+canvas_comment_attachments/
+*_comment_md/
